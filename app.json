@@ -7,5 +7,5 @@
 	"scripts": {
 		"postdeploy": "bundle exec rake db:migrate\nbundle exec rake db:seed"
 	},
-	"addons": ["heroku-postgresql::hobby-basic"]
+	"addons": ["heroku-postgresql:hobby-basic"]
 }
