@@ -46,6 +46,18 @@ EventKit.SettingsController = Em.Controller.extend({
 			value: 0
 		}
 		{
+			label: "15 days"
+			value: 0.5
+		}
+		{
+			label: "6 days"
+			value: 0.2
+		}
+		{
+			label: "3 days"
+			value: 0.1
+		}
+		{
 			label: "1 month"
 			value: 1
 		}
